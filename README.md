@@ -1,4 +1,4 @@
-## Tesk Permissions
+## Task Permissions
 
 To start the project you should run this commands:
 
